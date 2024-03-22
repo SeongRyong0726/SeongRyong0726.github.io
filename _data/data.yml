@@ -25,7 +25,7 @@ sidebar:
     # gitlab:
     # bitbucket:
     # twitter:
-    instagram : srjh_fev
+    #instagram : srjh_fev
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
@@ -71,8 +71,8 @@ experiences:
         time: 2022.6 - 2023.11
         company: CASYS (prof. JongSe Park)
         details: |
-            Participate in 'Dacapo' paper Hardware part mainly and SW simulator part a little.
-            Preparance CS411 project : Build end-to-end Systolic array on FPGA (PYNQ-Z2).
+            - Participate in 'Dacapo' paper Hardware part mainly and SW simulator part a little.
+            - Preparance CS411 project : Build end-to-end Systolic array on FPGA (PYNQ-Z2).
             
 
 
