@@ -96,7 +96,7 @@ projects:
     assignments:
       - title: Building end-to-end FPGA_SYSTOLIC ARRAY.
         link: "#hook"
-        tagline: | "Build SYSTOLIC ARRAY on FPGA Board (PYNQ-Z2) using simple communication way and run real image detection model on it."
+        tagline: "Build SYSTOLIC ARRAY on FPGA Board (PYNQ-Z2) using simple communication way and run real image detection model on it."
     
 
 
