@@ -18,7 +18,7 @@ sidebar:
     #timezone: Korea Standard Time 
     #citizenship:
     website: TBA #do not add http://
-    linkedin: www.linkedin.com/in/seongryong-oh
+    linkedin: seongryong-oh
     # xing: TBA
     github: SeongRyong0726
     # telegram: # add your nickname without '@' sign
@@ -35,7 +35,7 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          #level: 
+          level: --- 
 
     interests:
       title: Interests
@@ -56,22 +56,23 @@ education:
       - degree: B.S. in EE & CS (double major)
         university: KAIST
         time: 2018.3 ~ 2024.2
-        details: EE & CS
+        details: |
+            EE & CS
     info:
       - degree: M.S. in Ai Semiconductor
         university: KAIST
         time: 2024.3 ~ now
-        details: -
+        details: |
 
 experiences:
     title: Experiences
     info:
       - role: Undergraduate Student research Intern
-        time: 2022.6 - Present
+        time: 2022.6 - 2023.11
         company: CASYS (prof. JongSe Park)
         details: |
-            Systolic array
-            - FPGA
+            Participate in 'Dacapo' paper Hardware part mainly and SW simulator part a little.
+            Preparance CS411 project : Build end-to-end Systolic array on FPGA (PYNQ-Z2).
             
 
 
@@ -91,11 +92,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Projects ( ~ now ) .
+      Projects ( 2023.7 ~ 2023.9 )
     assignments:
-      - title: FPGA_SYSTOLIC ARRAY
+      - title: Building end-to-end FPGA_SYSTOLIC ARRAY.
         link: "#hook"
-        tagline: "Build SYSTOLIC ARRAY on FPGA Board (PYNQ-Z2) in simple communication way"
+        tagline: "Build SYSTOLIC ARRAY on FPGA Board (PYNQ-Z2) using simple communication way and run real image detection model on it."
     
 
 
