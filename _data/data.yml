@@ -105,7 +105,7 @@ publications:
     intro: papers 
     papers: 
       - title: "DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics"
-        link: "#"
+        link: "https://arxiv.org/abs/2403.14353"
         authors: Yoonsung Kim, Changhun Oh, Jinwoo Hwang, Wonung Kim, Seongryong Oh, Yubin Lee, Hardik Sharma, Amir Yazdanbakhsh, Jongse Park
         conference: ISCA, 2024
 
