@@ -102,7 +102,7 @@ projects:
 
 publications:
     title: Publication
-    intro: papers 
+    intro: | papers 
     papers: 
       - title: "DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics"
         link: "https://arxiv.org/abs/2403.14353"
