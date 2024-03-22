@@ -14,11 +14,11 @@ sidebar:
 
     # Sidebar links
     email: sroh@casys.kaist.ac.kr
-    phone: 010-0000-0000
-    timezone: Korea Standard Time 
-    citizenship:
+    #phone: 010-0000-0000
+    #timezone: Korea Standard Time 
+    #citizenship:
     website: TBA #do not add http://
-    # linkedin: TBA
+    linkedin: www.linkedin.com/in/seongryong-oh
     # xing: TBA
     github: SeongRyong0726
     # telegram: # add your nickname without '@' sign
@@ -35,7 +35,7 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: TOEIC 855
+          #level: 
 
     interests:
       title: Interests
