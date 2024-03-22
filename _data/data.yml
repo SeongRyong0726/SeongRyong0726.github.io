@@ -56,10 +56,12 @@ education:
       - degree: B.S. in EE & CS (double major)
         university: KAIST
         time: 2018.3 ~ 2024.2
-        details: |
-          introduce.
-            - EE
-            - CS
+        details: EE & CS
+    info:
+      - degree: M.S. in Ai Semiconductor
+        university: KAIST
+        time: 2024.3 ~ now
+        details: -
 
 experiences:
     title: Experiences
@@ -94,6 +96,7 @@ projects:
       - title: FPGA_SYSTOLIC ARRAY
         link: "#hook"
         tagline: "Build SYSTOLIC ARRAY on FPGA Board (PYNQ-Z2) in simple communication way"
+    
 
 
 publications:
