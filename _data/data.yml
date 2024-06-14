@@ -71,8 +71,8 @@ experiences:
         time: 2022.6 - 2023.11
         company: CASYS (prof. JongSe Park)
         details: |
-            - Participate in 'Dacapo' paper Hardware part mainly and SW simulator part a little.
-            - Preparance CS411 project : Build end-to-end Systolic array on FPGA (PYNQ-Z2).
+            - Participate in 'Dacapo[ISCA'24]' paper Hardware part mainly and SW simulator part a little.
+            - Prepare CS411 project : Build end-to-end Systolic array on FPGA (PYNQ-Z2).
             
 
 
@@ -91,13 +91,12 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      Projects ( 2023.7 ~ 2023.9 )
     assignments:
-      - title: Building end-to-end FPGA_SYSTOLIC ARRAY.
+      - title: Building end-to-end FPGA_SYSTOLIC ARRAY. [Projects ( 2023.7 ~ 2023.9 )]
         link: "#hook"
         tagline: "Build SYSTOLIC ARRAY on FPGA Board (PYNQ-Z2) using simple communication way and run real image detection model on it."
-    
+      - title: RISC-V + NPU (systolic array) for MLP task (MNIST) [2024 Spring]
+        tagline: "Attach NPU to RISC-V and verify functionality with source code which is compiled C code. (but not synthesized yet) [Keyword : MMIO, ARM AHB-Lite, NPU, Systolic array]"
 
 
 publications:
