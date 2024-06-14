@@ -96,6 +96,7 @@ projects:
         link: "#hook"
         tagline: "Build SYSTOLIC ARRAY on FPGA Board (PYNQ-Z2) using simple communication way and run real image detection model on it."
       - title: RISC-V + NPU (systolic array) for MLP task (MNIST) [2024 Spring]
+        link: "#hook"
         tagline: "Attach NPU to RISC-V and verify functionality with source code which is compiled C code. (but not synthesized yet) [Keyword : MMIO, ARM AHB-Lite, NPU, Systolic array]"
 
 
@@ -112,17 +113,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: Python, C
         level: 70%
 
-      - name: RTL develop (Verilog, Chisel3)
-        level: 80%
+      - name: Pytorch
+        level: 60%
 
-      - name: C
-        level: 70%
-
-      - name: Design Compiler
-        level: 50%
+      - name: RTL develop (Verilog, Chisel3, Design Compiler)
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
