@@ -35,16 +35,16 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: --- 
+          # level: .
 
-    interests:
-      title: Interests
-      info:
-        - item: Soccer/Footsal
-          link:
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Soccer/Footsal
+    #       link:
 
-        - item: Reading book
-          link:
+    #     - item: Reading book
+    #       link:
 
 career-profile:
     title: Career Profile
@@ -56,8 +56,8 @@ education:
       - degree: B.S. in EE & CS (double major)
         university: KAIST
         time: 2018.3 ~ 2024.2
-        details: |
-            EE & CS
+        # details: |
+        #     EE & CS
     info:
       - degree: M.S. in Ai Semiconductor
         university: KAIST
@@ -101,7 +101,7 @@ projects:
 
 publications:
     title: Publication
-    intro: | papers 
+    # intro: | papers 
     papers: 
       - title: "DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics"
         link: "https://arxiv.org/abs/2403.14353"
