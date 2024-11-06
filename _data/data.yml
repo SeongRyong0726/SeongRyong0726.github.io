@@ -104,7 +104,7 @@ projects:
         tagline: "Build Systolic array on FPGA Board (PYNQ-Z2) and run real image detection model on it. This project is the major part of course project of KAIST CS411 class."
       - title: RISC-V + NPU (systolic array) for MLP task (MNIST) [2024 Spring]
         link: "#hook"
-        tagline: "Attach NPU(systolic array) to RISC-V via APB communication protocol and verify functionality of CNN model (dataset: MNIST). (but not synthesized yet) [Keyword : MMIO, ARM AHB-Lite, NPU, Systolic array]"
+        tagline: "Attach NPU(systolic array) to RISC-V via APB communication protocol and verify functionality of MLP model (dataset: MNIST). (but not synthesized yet) [Keyword : MMIO, ARM AHB-Lite, NPU, Systolic array]"
 
 
 publications:
