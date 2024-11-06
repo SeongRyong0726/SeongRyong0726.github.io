@@ -75,7 +75,7 @@ experiences:
             - Prepare CS411 project : Build end-to-end Systolic array on FPGA (PYNQ-Z2).
       - role: Co-Researcher
         time: 2024.4 - 2024.11 (visit UCSD for 2 weeks at November)
-        company: Alternative Computing Technology(ACT) Lab of UCSD (prof. Hadi Esmaeilzadeh)
+        company: ACT Lab of UCSD (prof. Hadi Esmaeilzadeh)
         details: |
             - TBA
 # Integrating Accelerator and Cheshire which is RISC-V platform from PULP group with AXI protocol, and check functionality with bare-metal code.
