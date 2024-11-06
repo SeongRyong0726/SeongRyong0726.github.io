@@ -25,7 +25,7 @@ sidebar:
     # gitlab:
     # bitbucket:
     # twitter:
-    #instagram : srjh_fev
+    # instagram : srjh_fev
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
@@ -49,11 +49,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Student of KAIST
+      Master student of CASYS Lab (KAIST)
 education:
     title: Education
     info:
-      - degree: B.S. in EE & CS (double major)
+      - degree: B.S. in EE & CS (Double major)
         university: KAIST
         time: 2018.3 ~ 2024.2
         # details: |
@@ -61,19 +61,26 @@ education:
     info:
       - degree: M.S. in Ai Semiconductor
         university: KAIST
-        time: 2024.3 ~ now
+        time: 2024.3 ~ 
         details: |
 
 experiences:
     title: Experiences
     info:
-      - role: Undergraduate Student research Intern
+      - role: Undergraduate Student Research Intern
         time: 2022.6 - 2023.11
         company: CASYS (prof. JongSe Park)
         details: |
-            - Participate in 'Dacapo[ISCA'24]' paper Hardware part mainly and SW simulator part a little.
+            - Participate in 'Dacapo [ISCA'24]' paper Hardware part mainly and SW simulator part a little.
             - Prepare CS411 project : Build end-to-end Systolic array on FPGA (PYNQ-Z2).
-            
+      - role: Co-Researcher
+        time: 2024.4 - 2024.11 (visit UCSD for 2 weeks at November)
+        company: Alternative Computing Technology(ACT) Lab of UCSD (prof. Hadi Esmaeilzadeh)
+        details: |
+            - TBA
+# Integrating Accelerator and Cheshire which is RISC-V platform from PULP group with AXI protocol, and check functionality with bare-metal code.
+# Build 2 mode systolic array which can matmul and QR decomposition as well.
+# Stucy backgound of robotic application
 
 
 # certifications:
@@ -94,10 +101,10 @@ projects:
     assignments:
       - title: Building end-to-end FPGA_SYSTOLIC ARRAY. [Projects ( 2023.7 ~ 2023.9 )]
         link: "#hook"
-        tagline: "Build SYSTOLIC ARRAY on FPGA Board (PYNQ-Z2) using simple communication way and run real image detection model on it."
+        tagline: "Build Systolic array on FPGA Board (PYNQ-Z2) and run real image detection model on it. This project is the major part of course project of KAIST CS411 class."
       - title: RISC-V + NPU (systolic array) for MLP task (MNIST) [2024 Spring]
         link: "#hook"
-        tagline: "Attach NPU to RISC-V and verify functionality with source code which is compiled C code. (but not synthesized yet) [Keyword : MMIO, ARM AHB-Lite, NPU, Systolic array]"
+        tagline: "Attach NPU(systolic array) to RISC-V via APB communication protocol and verify functionality of CNN model (dataset: MNIST). (but not synthesized yet) [Keyword : MMIO, ARM AHB-Lite, NPU, Systolic array]"
 
 
 publications:
@@ -107,20 +114,21 @@ publications:
       - title: "DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics"
         link: "https://arxiv.org/abs/2403.14353"
         authors: Yoonsung Kim, Changhun Oh, Jinwoo Hwang, Wonung Kim, Seongryong Oh, Yubin Lee, Hardik Sharma, Amir Yazdanbakhsh, Jongse Park
-        conference: ISCA, 2024
+        conference: ISCA, 2024 [Distinguished Artifact Evaluation Awards]
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python, C
+      - name: Python, C, CUDA
+        level: 60%
+        Hi
+
+      - name: RTL Language develop (Verilog, Chisel, System Veilog)
         level: 70%
 
-      - name: Pytorch
-        level: 60%
-
-      - name: RTL develop (Verilog, Chisel3, Design Compiler)
-        level: 60%
+      - name: Digital Circuit Design tools [Questasim, Vivado, Design Compiler, VCS]
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
