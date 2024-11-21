@@ -17,7 +17,7 @@ sidebar:
     #phone: 010-0000-0000
     #timezone: Korea Standard Time 
     #citizenship:
-    website: TBA #do not add http://
+    # website: TBA #do not add http://
     linkedin: seongryong-oh
     # xing: TBA
     github: SeongRyong0726
@@ -57,7 +57,6 @@ education:
         university: KAIST
         time: 2018.3 ~ 2024.2
         details: |
-    info:
       - degree: M.S. in Ai Semiconductor
         university: KAIST
         time: 2024.3 ~ 
@@ -77,7 +76,7 @@ experiences:
         details: |
             - CS411(2023 FALL) - Develop project of end-to-end Systolic array on FPGA(PYNQ-Z2).
       - role: Co-Researcher
-        time: 2024.4 - 2024.11 (visit UCSD for 2 weeks at November)
+        time: Visit UCSD for 2 weeks at November
         company: ACT Lab of UCSD (prof. Hadi Esmaeilzadeh)
         details: |
             - TBA
