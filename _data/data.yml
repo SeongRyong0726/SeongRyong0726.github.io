@@ -75,13 +75,15 @@ experiences:
         company: 
         details: |
             - CS411(2023 FALL) - Develop project of end-to-end Systolic array on FPGA(PYNQ-Z2).
+            - CS230(2024 FALL)
       - role: Co-Researcher
         time: Visit UCSD for 2 weeks at November
         company: ACT Lab of UCSD (prof. Hadi Esmaeilzadeh)
         details: |
             - TBA
 # Integrating Accelerator and Cheshire which is RISC-V platform from PULP group with AXI protocol, and check functionality with bare-metal code.
-# Build 2 mode systolic array which can matmul and QR decomposition as well.
+# Build multi-functionality systolic array which can matmul and Tiled QR decomposition as well.
+# Build SW simulator for multi-functionality sistolic array, and octree traverse using bank-level parallelism.
 # Stucy backgound of robotic application
 
 
