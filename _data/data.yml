@@ -5,7 +5,7 @@
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: SeongRyong Oh
@@ -31,11 +31,11 @@ sidebar:
     # goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: NOT YET
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          # level: .
+    # languages:
+    #   title: Languages
+    #   info:
+    #     - idiom: English
+    #       # level: .
 
     # interests:
     #   title: Interests
@@ -56,8 +56,7 @@ education:
       - degree: B.S. in EE & CS (Double major)
         university: KAIST
         time: 2018.3 ~ 2024.2
-        # details: |
-        #     EE & CS
+        details: |
     info:
       - degree: M.S. in Ai Semiconductor
         university: KAIST
@@ -71,8 +70,12 @@ experiences:
         time: 2022.6 - 2023.11
         company: CASYS (prof. JongSe Park)
         details: |
-            - Participate in 'Dacapo [ISCA'24]' paper Hardware part mainly and SW simulator part a little.
-            - Prepare CS411 project : Build end-to-end Systolic array on FPGA (PYNQ-Z2).
+            - Participate in 'Dacapo [ISCA'24]' paper Hardware part mainly and SW simulator part.
+      - role: Teaching Assistant
+        time: 
+        company: 
+        details: |
+            - CS411(2023 FALL) - Develop project of end-to-end Systolic array on FPGA(PYNQ-Z2).
       - role: Co-Researcher
         time: 2024.4 - 2024.11 (visit UCSD for 2 weeks at November)
         company: ACT Lab of UCSD (prof. Hadi Esmaeilzadeh)
