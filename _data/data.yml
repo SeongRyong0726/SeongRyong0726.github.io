@@ -112,12 +112,18 @@ projects:
         tagline: "Accelerator controlled by RISC-V, upon completion of its operation, generate interrupt so that RISC-V can handle interrupt. Check it using Questasim."
         tagline: "Keywords: AXI, RISC-V, End-to-end, MMIO"
 
-      - title: Building end-to-end FPGA_SYSTOLIC ARRAY. [Projects ( 2023.7 ~ 2023.9 )]
+      - title: End-to-end SYSTOLIC-ARRAY over the FPGA . [Projects ( 2023.7 ~ 2023.9 )]
         link: "#hook"
-        tagline: "Build Systolic array on FPGA Board (PYNQ-Z2) and run real image detection model on it. This project is the major part of course project of KAIST CS411 class."
+        tagline: "Developed and implemented a systolic array on a PYNQ-Z2 FPGA board."
+        tagline: "Demonstrated the board running a real image detection model as part of a major course project (KAIST CS411)."
+        tagline: "Keywords: FPGA, End-to-end accelerator, Verilog, VIVADO."
+        
       - title: RISC-V + NPU (systolic array) for MLP task (MNIST) [2024 Spring]
         link: "#hook"
-        tagline: "Attach NPU(systolic array) to RISC-V via APB communication protocol and verify functionality of MLP model (dataset: MNIST). (but not synthesized yet) [Keyword : MMIO, ARM AHB-Lite, NPU, Systolic array]"
+        tagline: "Integrated an NPU (systolic array) with a RISC-V processor via the APB communication protocol."
+        tagline: "Verified the functionality of an MLP model (using the MNIST dataset)."
+        tagline: "Keywords: MMIO, ARM AHB-Lite, NPU, Systolic array."
+        tagline: "Note: This project is in the verification stage and has not been synthesized yet."
 
 
 publications:
@@ -128,6 +134,7 @@ publications:
         link: "https://arxiv.org/abs/2403.14353"
         authors: Yoonsung Kim, Changhun Oh, Jinwoo Hwang, Wonung Kim, Seongryong Oh, Yubin Lee, Hardik Sharma, Amir Yazdanbakhsh, Jongse Park
         conference: ISCA, 2024 [Distinguished Artifact Evaluation Awards]
+        In detail, I contributed to Dacapo's Entire Hardware part mainly and SW simulator part.
 
 skills:
     title: Skills &amp; Proficiency
