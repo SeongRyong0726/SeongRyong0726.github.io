@@ -110,15 +110,15 @@ projects:
     title: Projects
     assignments:
       - title: RISC-V + Accelerator Integration.
-        tagline: "Integrate the Cheshire RISC-V SoC from PULP group and Genesys from ACT LAB via Verilog programming."
-                 "Accelerator controlled by RISC-V, upon completion of its operation, generate interrupt so that RISC-V can handle interrupt. Check it using Questasim."
-                 "Keywords: AXI, RISC-V, End-to-end, MMIO"
+        tagline: Integrate the Cheshire RISC-V SoC from PULP group and Genesys from ACT LAB via Verilog programming.
+                 Accelerator controlled by RISC-V, upon completion of its operation, generate interrupt so that RISC-V can handle interrupt. Check it using Questasim.
+                 Keywords - AXI, RISC-V, End-to-end, MMIO"
 
       - title: End-to-end SYSTOLIC-ARRAY over the FPGA . [Projects ( 2023.7 ~ 2023.9 )]
         link: "#hook"
-        tagline: "Developed and implemented a systolic array on a PYNQ-Z2 FPGA board."
-                 "Demonstrated the board running a real image detection model as part of a major course project (KAIST CS411)."
-                 "Keywords: FPGA, End-to-end accelerator, Verilog, VIVADO."
+        tagline: Developed and implemented a systolic array on a PYNQ-Z2 FPGA board.
+                 Demonstrated the board running a real image detection model as part of a major course project (KAIST CS411).
+                 Keywords - FPGA, End-to-end accelerator, Verilog, VIVADO.
         
       - title: RISC-V + NPU (systolic array) for MLP task (MNIST) [2024 Spring]
         link: "#hook"
