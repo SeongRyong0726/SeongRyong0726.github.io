@@ -122,10 +122,7 @@ projects:
         
       - title: RISC-V + NPU (systolic array) for MLP task (MNIST) [2024 Spring]
         link: "#hook"
-        tagline: "Integrated an NPU (systolic array) with a RISC-V processor via the APB communication protocol."
-                 "Verified the functionality of an MLP model (using the MNIST dataset)."
-                 "Keywords: MMIO, ARM AHB-Lite, NPU, Systolic array."
-                 "Note: This project is in the verification stage and has not been synthesized yet."
+        tagline: "Integrated an NPU (systolic array) with a RISC-V processor via the APB communication protocol. Verified the functionality of an MLP model (using the MNIST dataset). Keywords: MMIO, ARM AHB-Lite, NPU, Systolic array. Note: This project is in the verification stage and has not been synthesized yet."
 
 
 publications:
