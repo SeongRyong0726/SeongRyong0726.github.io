@@ -111,21 +111,21 @@ projects:
     assignments:
       - title: RISC-V + Accelerator Integration.
         tagline: "Integrate the Cheshire RISC-V SoC from PULP group and Genesys from ACT LAB via Verilog programming."
-        tagline: "Accelerator controlled by RISC-V, upon completion of its operation, generate interrupt so that RISC-V can handle interrupt. Check it using Questasim."
-        tagline: "Keywords: AXI, RISC-V, End-to-end, MMIO"
+                 "Accelerator controlled by RISC-V, upon completion of its operation, generate interrupt so that RISC-V can handle interrupt. Check it using Questasim."
+                 "Keywords: AXI, RISC-V, End-to-end, MMIO"
 
       - title: End-to-end SYSTOLIC-ARRAY over the FPGA . [Projects ( 2023.7 ~ 2023.9 )]
         link: "#hook"
         tagline: "Developed and implemented a systolic array on a PYNQ-Z2 FPGA board."
-        tagline: "Demonstrated the board running a real image detection model as part of a major course project (KAIST CS411)."
-        tagline: "Keywords: FPGA, End-to-end accelerator, Verilog, VIVADO."
+                 "Demonstrated the board running a real image detection model as part of a major course project (KAIST CS411)."
+                 "Keywords: FPGA, End-to-end accelerator, Verilog, VIVADO."
         
       - title: RISC-V + NPU (systolic array) for MLP task (MNIST) [2024 Spring]
         link: "#hook"
         tagline: "Integrated an NPU (systolic array) with a RISC-V processor via the APB communication protocol."
-        tagline: "Verified the functionality of an MLP model (using the MNIST dataset)."
-        tagline: "Keywords: MMIO, ARM AHB-Lite, NPU, Systolic array."
-        tagline: "Note: This project is in the verification stage and has not been synthesized yet."
+                 "Verified the functionality of an MLP model (using the MNIST dataset)."
+                 "Keywords: MMIO, ARM AHB-Lite, NPU, Systolic array."
+                 "Note: This project is in the verification stage and has not been synthesized yet."
 
 
 publications:
