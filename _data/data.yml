@@ -25,11 +25,11 @@ sidebar:
     # gitlab:
     # bitbucket:
     # twitter:
-    # instagram : srjh_fev
+    # instagram : 
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: NOT YET
+    pdf: cv.pdf
 
     # languages:
     #   title: Languages
@@ -49,7 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Master student of CASYS Lab (KAIST)
+      Master's student of CASYS Lab (KAIST)
 education:
     title: Education
     info:
@@ -69,18 +69,22 @@ experiences:
         time: 2022.6 - 2023.11
         company: CASYS (prof. JongSe Park)
         details: |
-            - Participate in 'Dacapo [ISCA'24]' paper Hardware part mainly and SW simulator part.
+            - Participate in 'Dacapo [ISCA'24]' paper.
+            - In detail, I contributed to Dacapo's Entire Hardware part mainly and SW simulator part.
       - role: Teaching Assistant
         time: 
-        company: 
+        company: KAIST
         details: |
-            - CS411(2023 FALL) - Develop project of end-to-end Systolic array on FPGA(PYNQ-Z2).
+            - CS411(2023 FALL) - I organized the projects of this course from scratch. In detail, The project topic is implementing systolic-arrays with verilog on FPGA(PYNQ-Z2 board) and run end-to-end image-detection neural network using FPGA accelerator.
             - CS230(2024 FALL)
       - role: Co-Researcher
         time: Visit UCSD for 2 weeks at November
         company: ACT Lab of UCSD (prof. Hadi Esmaeilzadeh)
         details: |
-            - TBA
+            - Participated in a short-term research visit at the ACT Lab under Prof. Hadi Esmaeilzadeh.
+            - Actively participate in research discussion and implement several accelerator simulators and compiler.
+            - Research details are to be announced (TBA).
+    
 # Integrating Accelerator and Cheshire which is RISC-V platform from PULP group with AXI protocol, and check functionality with bare-metal code.
 # Build multi-functionality systolic array which can matmul and Tiled QR decomposition as well.
 # Build SW simulator for multi-functionality sistolic array, and octree traverse using bank-level parallelism.
@@ -103,6 +107,11 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: RISC-V + Accelerator Integration.
+        tagline: "Integrate the Cheshire RISC-V SoC from PULP group and Genesys from ACT LAB via Verilog programming."
+        tagline: "Accelerator controlled by RISC-V, upon completion of its operation, generate interrupt so that RISC-V can handle interrupt. Check it using Questasim."
+        tagline: "Keywords: AXI, RISC-V, End-to-end, MMIO"
+
       - title: Building end-to-end FPGA_SYSTOLIC ARRAY. [Projects ( 2023.7 ~ 2023.9 )]
         link: "#hook"
         tagline: "Build Systolic array on FPGA Board (PYNQ-Z2) and run real image detection model on it. This project is the major part of course project of KAIST CS411 class."
