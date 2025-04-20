@@ -69,8 +69,7 @@ experiences:
         time: 2024 Nov
         company: ACT Lab of UCSD (prof. Hadi Esmaeilzadeh)
         details: |
-            - Visit UCSD for 2 weeks at November
-            - Participated in a short-term research visit at the ACT Lab under Prof. Hadi Esmaeilzadeh.
+            - During collaboration from 2024 March, visit the ACT Lab under Prof. Hadi Esmaeilzadeh for 2 weeks at November.
             - Actively participate in research discussion and implement several accelerator simulators and compiler.
             - Research details are to be announced (TBA).
 # Integrating Accelerator and Cheshire which is RISC-V platform from PULP group with AXI protocol, and check functionality with bare-metal code.
@@ -82,14 +81,14 @@ experiences:
         company: KAIST
         details: |
             - CS411(2023 FALL) - I organized the projects of this course from scratch. In detail, The project topic is implementing systolic-arrays with verilog on FPGA(PYNQ-Z2 board) and run end-to-end image-detection neural network using FPGA accelerator.
-            - CS230(2024 FALL)
+            - CS230(2024 FALL) 
       
       - role: Undergraduate Student Research Intern
         time: 2022.Jun - 2023.Nov
         company: CASYS (prof. JongSe Park)
         details: |
             - Participate in 'Dacapo [ISCA'24]' paper.
-            - In detail, I contributed to Dacapo's Entire Hardware part mainly and SW simulator part.
+            - In detail, I contributed to Dacapo's hardware implementation, synthesis and hardware simulator part.
 
 
 
@@ -129,7 +128,7 @@ publications:
       - title: "DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics"
         link: "https://arxiv.org/abs/2403.14353"
         authors: Yoonsung Kim, Changhun Oh, Jinwoo Hwang, Wonung Kim, Seongryong Oh, Yubin Lee, Hardik Sharma, Amir Yazdanbakhsh, Jongse Park
-        conference: ISCA, 2024 [Distinguished Artifact Evaluation Awards] In detail, I contributed to Dacapo's Entire Hardware part mainly and SW simulator part.
+        conference: ISCA, 2024 [Distinguished Artifact Evaluation Awards]
 
 skills:
     title: Skills &amp; Proficiency
