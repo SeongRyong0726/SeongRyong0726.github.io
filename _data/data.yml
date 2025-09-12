@@ -69,7 +69,7 @@ experiences:
         time: 2024 Nov
         company: ACT Lab of UCSD (prof. Hadi Esmaeilzadeh)
         details: |
-            - During collaboration from 2024 March, visit the ACT Lab under Prof. Hadi Esmaeilzadeh for 2 weeks at November.
+            - During collaboration from 2024 March to 2025 Aug, visit the ACT Lab under Prof. Hadi Esmaeilzadeh for 2 weeks at November.
             - Actively participate in research discussion and implement several accelerator simulators and compiler.
             - Research details are to be announced (TBA).
 # Integrating Accelerator and Cheshire which is RISC-V platform from PULP group with AXI protocol, and check functionality with bare-metal code.
@@ -108,9 +108,9 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: RISC-V + Accelerator Integration.
+      - title: RISC-V + Accelerator Integration. [2024 Spring]
         link: "#hook"
-        tagline: "Integrate the Cheshire RISC-V SoC from PULP group and Genesys from ACT LAB via Verilog programming. Accelerator controlled by RISC-V, upon completion of its operation, generate interrupt so that RISC-V can handle interrupt. Check it using Questasim. Keywords - AXI, RISC-V, End-to-end, MMIO"
+        tagline: "Integrate the Cheshire RISC-V SoC of PULP group and Genesys from ACT LAB via Verilog programming. Accelerator controlled by RISC-V, upon completion of its operation, generate interrupt so that RISC-V can handle interrupt. Check it using Questasim. Keywords - AXI, RISC-V, End-to-end, MMIO"
 
       - title: End-to-end SYSTOLIC-ARRAY over the FPGA . [Projects ( 2023.7 ~ 2023.9 )]
         link: "#hook"
@@ -130,7 +130,11 @@ publications:
         authors: Yoonsung Kim, Changhun Oh, Jinwoo Hwang, Wonung Kim, Seongryong Oh, Yubin Lee, Hardik Sharma, Amir Yazdanbakhsh, Jongse Park
         conference: ISCA, 2024 [Distinguished Artifact Evaluation Awards]
         details: I contributed to Dacapo's hardware implementation, synthesis and hardware simulator part.
-
+      - title: "Pimba: A Processing-in-Memory Acceleration for Post-Transformer Large Language Model Serving"
+        link: "https://arxiv.org/abs/2507.10178"
+        authors: Wonung Kim, Yubin Lee, Yoonsung Kim, Jinwoo Hwang, Seongryong Oh, Jiyong Jung, Aziz Huseynov, Woong Gyu Park, Chang Hyun Park, Divya Mahajan, Jongse Park
+        conference: MICRO, 2025
+        details: I actively discuss about Pimba's Processing-In-Memory structure pipeline with Wonung.
 skills:
     title: Skills &amp; Proficiency
 
