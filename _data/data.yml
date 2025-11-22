@@ -137,7 +137,7 @@ publications:
         conference: MICRO, 2025
         details: I actively discuss about Pimba's Processing-In-Memory structure pipeline with Wonung.
         
-      - title: Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration
+      - title: "Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration"
         link: "https://arxiv.org/abs/2511.12930"
         authors: Changhun Oh, Seongryong Oh, Jinwoo Hwang, Yoonsung Kim, Hardik Sharma, Jongse Park
         conference: ASPLOS, 2026
