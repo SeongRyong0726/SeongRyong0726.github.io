@@ -147,7 +147,8 @@ skills:
 
     toolset:
       - name: Python, C, CUDA
-
+        level: 70%
+        
       - name: RTL Language develop (Verilog, Chisel, System Veilog)
         level: 70%
 
