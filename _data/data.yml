@@ -133,13 +133,13 @@ publications:
         
       - title: "Pimba: A Processing-in-Memory Acceleration for Post-Transformer Large Language Model Serving"
         link: "https://arxiv.org/abs/2507.10178"
-        authors: Wonung Kim, Yubin Lee, Yoonsung Kim, Jinwoo Hwang, Seongryong Oh, Jiyong Jung, Aziz Huseynov, Woong Gyu Park, Chang Hyun Park, Divya Mahajan, Jongse Park
+        authors: "Wonung Kim, Yubin Lee, Yoonsung Kim, Jinwoo Hwang, <b>Seongryong Oh</b>, Jiyong Jung, Aziz Huseynov, Woong Gyu Park, Chang Hyun Park, Divya Mahajan, Jongse Park"
         conference: MICRO, 2025
         details: I actively discuss about Pimba's Processing-In-Memory structure pipeline with Wonung.
         
       - title: "Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration"
         link: "https://arxiv.org/abs/2511.12930"
-        authors: Changhun Oh, Seongryong Oh, Jinwoo Hwang, Yoonsung Kim, Hardik Sharma, Jongse Park
+        authors: "Changhun Oh, <b>Seongryong Oh</b>, Jinwoo Hwang, Yoonsung Kim, Hardik Sharma, Jongse Park"
         conference: ASPLOS, 2026
         details: 
 skills:
